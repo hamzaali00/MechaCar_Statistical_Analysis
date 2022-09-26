@@ -26,3 +26,11 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ![T-Test Lot 2](Resources/t_test_lot2.png)
 
 ![T-Test Lot 3](Resources/t_test_lot3.png)
+
+
+## Study Design: MechaCar vs Competition
+
+What metric or metrics are you going to test?
+What is the null hypothesis or alternative hypothesis?
+What statistical test would you use to test the hypothesis? And why?
+What data is needed to run the statistical test?
